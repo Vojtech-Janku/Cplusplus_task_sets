@@ -1,0 +1,18 @@
+# S.2. Ukazatele, výjimky, OOP
+
+Druhá sada přináší příklady zaměřené na objektově-orientované
+programování, na práci s ukazately a výjimkami a v neposlední řadě
+na správu zdrojů.
+
+ 1. ‹a_natural› – rozšíření ‹s1/f_natural› o dělení,
+ 2. ‹b_treap›   – jednoduchý vyhledávací strom,
+ 3. ‹c_robots›  – programujeme roboty na mapě,
+ 4. ‹d_network› – simulátor počítačové sítě s přepínači,
+ 5. ‹e_tree›    – práce s heterogenním stromem,
+ 6. ‹f_scrap›   – hra o zdrojích a zajímání.
+
+Příklad ‹a› si vystačí se znalostmi z prvního bloku, příklad ‹b› lze
+vyřešit po nastudování 5. kapitoly, příklady ‹c› až ‹d› vyžadují
+znalost 6. kapitoly a konečně příklady ‹e›, ‹f› vyžadují znalost 7.
+kapitoly. Opět platí, že řešení nějakého příkladu z této sady může
+být potřebné pro vyřešení příkladu z poslední sady.

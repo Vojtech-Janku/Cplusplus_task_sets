@@ -1,0 +1,13 @@
+# S.3. Součtové typy, řetězce
+
+ 1. ‹a_machine› – jednoduchý virtuální stroj s pamětí,
+ 2. ‹b_chess›   – hrajeme šach,
+ 4. ‹c_real›    – reálná čísla (dále rozšiřuje ‹s2/a_natural›),
+ 3. ‹d_json›    – reprezentace JSON-u použitím ‹std::variant›,
+ 5. ‹e_robots›  – rozšíření ‹s2/c_robots› o programovatelné roboty,
+ 6. ‹f_network› – načítání vstupu pro simulátor z ‹s2/d_network›.
+
+V příkladech ‹a› až ‹c› využijete zejména znalosti z prvních dvou
+bloků, vyžadují navíc pouze výčtové typy (‹enum›) z 9. kapitoly.
+Příklad ‹d› vyžaduje znalosti 9. kapitoly a příklady ‹e›, ‹f›
+vyžadují znalost 11. kapitoly.

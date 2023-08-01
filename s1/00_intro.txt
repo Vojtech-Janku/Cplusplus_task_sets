@@ -1,0 +1,22 @@
+# S.1. Funkce a hodnoty
+
+Tato sada obsahuje příklady zaměřené na zápis jednoduchých
+podprogramů (zejména čistých funkcí) a na práci s hodnotami (jak
+skalárními, tak složenými).
+
+ 1. ‹a_queens›   – problém osmi dam,
+ 2. ‹b_city›     – panorama města,
+ 3. ‹c_magic›    – doplnění magického čtverce,
+ 4. ‹d_reversi›  – třírozměrná verze hry Reversi,
+ 5. ‹e_cellular› – celulární automat na kružnici,
+ 6. ‹f_natural›  – přirozená čísla se sčítáním a násobením.
+
+Úlohu ‹a› byste měli zvládnout vyřešit hned po první přednášce.
+Příklady ‹b›, ‹c› vyžadují znalosti nejvýše z druhé přednášky,
+příklad ‹d› si vystačí s třetí přednáškou a konečně při řešení
+příkladů ‹e›, ‹f› můžete potřebovat i základní znalosti z přednášky
+čtvrté.
+
+«Pozor!» Řešení některých příkladů z této sady může být potřebné pro
+vyřešení příkladů v sadách pozdějších. Doporučujeme prolistovat si i
+zadání pozdějších sad.
